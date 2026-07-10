@@ -1,0 +1,38 @@
+✅ Task 2: API Integration & JSON Handling
+🎯 Goal
+Learn how Python communicates with external APIs and handles JSON data.
+
+📝 Requirements
+Fetch data using Requests library
+Parse JSON responses
+Apply filtering or search logic
+Handle API errors
+
+💻 Description
+In this task, I developed a Python application that fetches data from an external API and processes JSON responses using Python. The project demonstrates API integration, JSON parsing, filtering logic, and error handling.
+
+🛠 Technologies Used
+Python
+Requests Library
+JSON
+VS Code
+GitHub
+
+📂 Files Included
+task2.py
+README.md
+Dockerfile
+Screenshots
+
+🚀 Features Implemented
+API data fetching
+JSON data parsing
+Search and filtering operations
+Exception handling for API errors
+
+📚 Skills Gained
+API Integration
+JSON Handling
+Python Requests Module
+Error Handling
+GitHub Repository Management

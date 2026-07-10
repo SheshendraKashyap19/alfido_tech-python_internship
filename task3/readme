@@ -1,0 +1,51 @@
+🐳 Task 3: Containerization with Docker
+
+🎯 Goal
+Learn how to containerize a Python application using Docker and run it consistently across different environments.
+
+📋 Requirements
+Install Docker Desktop
+Create a Dockerfile
+Configure application dependencies
+Build a Docker image
+Run the application inside a Docker container
+Verify successful execution
+
+📝 Description
+In this task, I containerized a Python application using Docker. I created and configured a Dockerfile, installed the required dependencies, built a Docker image, and executed the application inside a Docker container. This task helped me understand how containerization simplifies application deployment and ensures consistency across environments.
+
+🛠️ Technology Stack
+Python
+Docker
+Docker Desktop
+GitHub
+VS Code
+
+📂 Files Included
+Dockerfile
+Python Source Code
+Requirements File
+Screenshots
+Input Files
+Output Files
+README.md
+
+✨ Features Implemented
+Containerized a Python application
+Created and configured a Dockerfile
+Managed application dependencies
+Built a Docker image successfully
+Executed the application inside a Docker container
+Verified application output
+
+🎓 Skills Gained
+Docker Fundamentals
+Containerization Concepts
+Docker Image Creation
+Docker Container Management
+Dependency Management
+Application Deployment
+Version Control with GitHub
+
+✅ Outcome
+Successfully containerized and executed a Python application using Docker, gaining hands-on experience in modern deployment and containerization practices.
